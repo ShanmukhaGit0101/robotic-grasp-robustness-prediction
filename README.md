@@ -160,7 +160,6 @@ Potential extensions include:
 
 ## 👨‍💻 Author
 
-**Shanmukha Vinayak M**
 
 B.Tech Automation and Robotics Engineering
 
