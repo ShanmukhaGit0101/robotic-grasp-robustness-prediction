@@ -7,7 +7,7 @@
 > **Status.** The notebook was tested end to end on a synthetic dataset with the same schema as the real one, and it ran without errors. It has **not** been run on the real Kaggle data yet. Every number quoted as "real" below comes from the team's earlier notebooks; numbers the notebook will print on the real data are described, not promised.
 
 ---
-
+## ipunb link: https://colab.research.google.com/drive/1KZLKAyWXrhA290OZVnTD8SCnBKd0d_vu?usp=sharing
 ## 1. What Part 1 delivers
 
 | Deliverable | File | Written by |
